@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience unparalleled convenience and professional service with our top-quality fleet. Your journey starts here.",
+        "title": "Seamless Car Rentals for Modern Travelers"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Experience unparalleled convenience and professional service with our top-quality fleet. Your journey starts here.",
+        "title": "Seamless Car Rentals for Modern Travelers"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Experience unparalleled convenience and professional service with our top-quality fleet. Your journey starts here.",
+        "title": "Seamless Car Rentals for Modern Travelers"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience unparalleled convenience and professional service with our top-quality fleet. Your journey starts here.",
+        "title": "Seamless Car Rentals for Modern Travelers"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience unparalleled convenience and professional service with our top-quality fleet. Your journey starts here.",
+        "title": "Seamless Car Rentals for Modern Travelers"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience unparalleled convenience and professional service with our top-quality fleet. Your journey starts here.",
+        "title": "Seamless Car Rentals for Modern Travelers"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience unparalleled convenience and professional service with our top-quality fleet. Your journey starts here.",
+        "title": "Seamless Car Rentals for Modern Travelers"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience unparalleled convenience and professional service with our top-quality fleet. Your journey starts here.",
+        "title": "Seamless Car Rentals for Modern Travelers"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience unparalleled convenience and professional service with our top-quality fleet. Your journey starts here.",
+        "title": "Seamless Car Rentals for Modern Travelers"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Seamless Car Rentals for Modern Travelers",
+  "subtitle": "Experience unparalleled convenience and professional service with our top-quality fleet. Your journey starts here."
+}
